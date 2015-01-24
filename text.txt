@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Apple
 Orange
+=======
+Banana
+>>>>>>> 186addffbcf9e2601a869101ce8d94c3352410dd
